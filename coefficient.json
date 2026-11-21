@@ -1,8 +1,8 @@
 {
     "schema_version": 1,
-    "coefficient": 1.390946,
-    "generated_at": "2026-11-21T11:49:52Z",
-    "valid_until": "2026-11-22T11:49:52Z",
+    "coefficient": 1.386961,
+    "generated_at": "2026-11-21T21:13:50Z",
+    "valid_until": "2026-11-22T21:13:50Z",
     "method": "median_of_currency_ratios_v1",
     "sample_count": 5,
     "status": "ok"
